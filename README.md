@@ -6,7 +6,7 @@
 -->
 ### 🌱 Currently exploring:
 - Scripting in FreeCAD
-- Coding in Java
+- Coding in C#
 - Data analysis in Python
 
 ### 🌹 Current skills:
