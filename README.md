@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 
 -->
 ### 🌱 Currently exploring:
-- How to use FreeCAD
+- Scripting in FreeCAD
 - Coding in Java
 - Data analysis in Python
 
