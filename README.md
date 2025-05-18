@@ -14,6 +14,7 @@
 - mySQL
 - HTML, CSS, JavaScript
 - Python
+- x86 Assembly
 
 ### ⚡ Fun facts
 - Interested in game development for education
