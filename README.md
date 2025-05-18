@@ -16,5 +16,5 @@
 - Python
 
 ### ⚡ Fun facts
-- Interested in game development for educational use
+- Interested in game development for education
 - Hoping to breakthrough as a white-hat hacker someday
