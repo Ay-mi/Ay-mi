@@ -18,4 +18,4 @@
 
 ### ⚡ Fun facts
 - Interested in game development for education
-- Hoping to breakthrough as a white-hat hacker someday
+- Hoping to breakthrough as a white-hat hacker
