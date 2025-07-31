@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on 
 -->
 ### 🌱 Currently exploring:
+- Wrapping C++ libraries in C#
 - Scripting in FreeCAD
-- Coding in C#
 - Data analysis in Python
 
 ### 🌹 Current skills:
