@@ -11,6 +11,7 @@
 
 ### 🌹 Current skills:
 - C/C++
+- C#
 - mySQL
 - HTML, CSS, JavaScript
 - Python
