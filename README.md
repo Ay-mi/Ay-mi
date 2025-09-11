@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 
 -->
 ### 🌱 Currently exploring:
-- Wrapping C++ libraries in C#
+- CGAL
 - Scripting in FreeCAD
 - Data analysis in Python
 
