@@ -6,8 +6,7 @@
 -->
 ### 🌱 Currently exploring:
 - CGAL
-- Scripting in FreeCAD
-- Data analysis in Python
+- Biopython
 
 ### 🌹 Current skills:
 - C/C++
@@ -16,6 +15,7 @@
 - HTML, CSS, JavaScript
 - Python
 - x86 Assembly
+- Scripting in FreeCAD
 
 ### ⚡ Fun facts
 - Interested in game development for education
