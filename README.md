@@ -8,7 +8,7 @@
 - CGAL
 - Biopython
 
-### 🌹 Current skills:
+### 🌹 Skills:
 - C/C++
 - C#
 - mySQL
